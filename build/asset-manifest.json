@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.a8a10f8e.css",
-    "main.js": "/static/js/main.8d19f539.js",
-    "index.html": "/index.html",
-    "main.a8a10f8e.css.map": "/static/css/main.a8a10f8e.css.map",
-    "main.8d19f539.js.map": "/static/js/main.8d19f539.js.map"
+    "main.css": "/FirstReactApp/static/css/main.a8a10f8e.css",
+    "main.js": "/FirstReactApp/static/js/main.eac50b5d.js",
+    "index.html": "/FirstReactApp/index.html",
+    "main.a8a10f8e.css.map": "/FirstReactApp/static/css/main.a8a10f8e.css.map",
+    "main.eac50b5d.js.map": "/FirstReactApp/static/js/main.eac50b5d.js.map"
   },
   "entrypoints": [
     "static/css/main.a8a10f8e.css",
-    "static/js/main.8d19f539.js"
+    "static/js/main.eac50b5d.js"
   ]
 }
